@@ -7,4 +7,7 @@
    + 메뉴 추가 테이블
    + 주문 마스터, 고객 관계 X
    + 장바구니 (주문 마스터 테이블에 구분 코드 Stay, Ongoing, Complete)
-안오자나
+
++ H2DB 설정
+  + "C:\Users\***\Desktop\...\h2\bin\h2.bat" 파일을 실행 → H2DB 실행
+  + "C:\Users\***\test.mv.db" 파일을 프로젝트의 application.properties 설정 정보에 맞게 세팅
